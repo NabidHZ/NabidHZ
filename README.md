@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Nabid, i'm a backend developer  from Barcelona</h2>
+<h2 align="left">Hola 👋! Me llamo Nabid y soy un desarrolador Backend de Barcelona</h2>
 
 ###
 
